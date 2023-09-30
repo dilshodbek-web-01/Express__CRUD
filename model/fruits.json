@@ -1,0 +1,20 @@
+[
+    {
+        "id": "10eafb34-461f-4a2c-93f3-b018b961a812",
+        "name": "cherry",
+        "color": "red",
+        "price": "7000"
+    },
+    {
+        "id": "3211a479-5c64-4712-9842-0451f838fd5b",
+        "name": "peach",
+        "color": "yellow",
+        "price": "15000"
+    },
+    {
+        "id": "2f22edb7-28bf-47be-bbb2-e49d07d75b94",
+        "name": "apple",
+        "color": "red",
+        "price": "15000"
+    }
+]

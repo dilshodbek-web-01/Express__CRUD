@@ -1,0 +1,20 @@
+[
+    {
+        "id": "8f5fbd54-401a-43d6-ab9b-86441cfa1f12",
+        "name": "Cobalt",
+        "color": "white",
+        "price": "10000$"
+    },
+    {
+        "id": "5d09ab0f-ec1a-421a-b0fb-f46649f7050a",
+        "name": "Malibu",
+        "color": "white",
+        "price": "35000$"
+    },
+    {
+        "id": "287ebb7c-c640-4ec0-8e6a-13a5ba092f84",
+        "name": "Tracker",
+        "color": "white",
+        "price": "17000$"
+    }
+]
